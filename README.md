@@ -1,4 +1,3 @@
-This repo contain (mostly vibecoded) app:
 # Reaction test tool on Python
 Simple tool to test and track your reaction time
 ## Main features:
